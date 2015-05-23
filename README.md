@@ -1,2 +1,2 @@
-# newgithub
-my first github
+# blog
+my first github blog
